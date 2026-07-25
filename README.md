@@ -42,7 +42,7 @@ daily     Snapdragon 685 · 8 GB RAM · Artix / Arch / Debian / Fedora
 
 **OpceanAI**
 
-- [**Doki**](https://github.com/OpceanAI/Doki) &nbsp;`Go`&nbsp; · &nbsp;★&nbsp;19 — Universal containers, zero friction. Rootless, Docker &amp; Podman compatible, and it runs natively on Android.
+- [**Doki**](https://github.com/OpceanAI/Doki) &nbsp;`Go`&nbsp; · &nbsp;★&nbsp;28 — Universal containers, zero friction. Rootless, Docker &amp; Podman compatible, and it runs natively on Android.
 - [**openllava**](https://github.com/OpceanAI/openllava) &nbsp;`Python`&nbsp; — Inject vision into any language model. CUDA, ROCm, TPU, MLX, XPU, CPU. Train, serve, export.
 - [**Shadow**](https://github.com/OpceanAI/Shadow) &nbsp;`TypeScript`&nbsp; — A local-first CLI that reads, traces, tests, and explains code. Zero bytes to the cloud.
 
